@@ -10,7 +10,7 @@ The robot detects **wall cracks and dents**, pauses vision processing, performs 
 
 ## 📸 Prototype
 
-![Constrobot Prototype](images/constrobot_prototype.jpg)
+![Constrobot Prototype](https://github.com/AmrishS2004/Constrobot-Wall-Plastering-Robot-/blob/main/Constrobot%20(Wall%20Plastering%20Robot)/Constrobot_Prototype.JPG)
 
 *Figure: Constrobot prototype with vertical motion mechanism and plastering module*
 
