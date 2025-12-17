@@ -1,0 +1,31 @@
+CUSTOM ACADEMIC & RESEARCH LICENSE
+Copyright (c) 2025 Amrish Sasikumar
+
+All rights reserved.
+
+This project, including but not limited to its source code, trained models, documentation, hardware design concepts, and system architecture ("Software"), is the intellectual property of the author.
+
+Permission is hereby NOT granted to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of the Software, in whole or in part, without explicit prior written permission from the author.
+
+### PERMITTED USE
+- Viewing the source code for academic reference only
+- Citing this work with proper attribution in academic publications
+
+### RESTRICTED USE
+Any of the following actions require **prior written permission** from the author:
+- Running or deploying the system
+- Modifying the code or model
+- Using the project for research, academic, industrial, or commercial purposes
+- Using any part of the work in publications, products, or patents
+- Training derivative models using provided weights or data
+
+### NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+### CONTACT
+To request permission, contact:
+Amrish Sasikumar  
+Email: <ADD_YOUR_EMAIL_HERE>
+
+Unauthorized use of this Software may result in legal action.
+
