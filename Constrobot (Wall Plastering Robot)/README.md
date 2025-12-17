@@ -209,5 +209,5 @@ Commercial or industrial usage requires prior permission.
 ## 👤 Author
 
 **Amrish Sasikumar**  
-Robotics | Computer Vision | Embedded Systems  
-Incoming MS in Computer Science, Arizona State University
+MS Computer Science, Arizona State University
+B.Tech in Electronics and Computer Engineering, VIT Chennai.
