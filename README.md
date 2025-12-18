@@ -32,7 +32,7 @@ An autonomous robotic system that revolutionizes construction quality control by
 
 **Watch Constrobot in Action**
 
-[![Constrobot Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Constrobot Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/PhBjyNaXqvY)
 
 *Click above to watch the full demonstration video*
 
@@ -48,7 +48,7 @@ An autonomous robotic system that revolutionizes construction quality control by
 
 | SolidWorks CAD Design | Physical Prototype |
 |:---------------------:|:------------------:|
-| ![CAD Design](images/solidworks_design.png) | ![Prototype](images/Constrobot_Prototype.JPG) |
+| ![CAD Design](https://github.com/AmrishS2004/Constrobot-Wall-Plastering-Robot-/blob/main/Images/Complete%20design.jpg) | ![Prototype](https://github.com/AmrishS2004/Constrobot-Wall-Plastering-Robot-/blob/main/Images/Constrobot_Prototype.JPG) |
 | *3D CAD model showing complete assembly* | *Functional prototype in testing phase* |
 
 </div>
@@ -62,13 +62,13 @@ An autonomous robotic system that revolutionizes construction quality control by
 #### Primary Views
 | Front View | Side View | Back View |
 |:----------:|:---------:|:---------:|
-| ![Front](images/cad_designs/front_view.png) | ![Side](images/cad_designs/side_view.png) | ![Back](images/cad_designs/back_view.png) |
+| ![Front](https://github.com/AmrishS2004/Constrobot-Wall-Plastering-Robot-/blob/main/Images/Front_view.jpg) | ![Side](https://github.com/AmrishS2004/Constrobot-Wall-Plastering-Robot-/blob/main/Images/Side_view.jpg) | ![Back](https://github.com/AmrishS2004/Constrobot-Wall-Plastering-Robot-/blob/main/Images/Back_view.jpg) |
 | *Front elevation* | *Side profile* | *Rear view* |
 
 #### Component Details
 | Top View | Tyre Assembly | Scrapper Mechanism | Rotator System |
 |:--------:|:-------------:|:------------------:|:--------------:|
-| ![Top](images/cad_designs/top_view.png) | ![Tyre](images/cad_designs/tyre_view.png) | ![Scrapper](images/cad_designs/scrapper.png) | ![Rotator](images/cad_designs/rotator.png) |
+| ![Top](https://github.com/AmrishS2004/Constrobot-Wall-Plastering-Robot-/blob/main/Images/Top_view.jpg) | ![Tyre](https://github.com/AmrishS2004/Constrobot-Wall-Plastering-Robot-/blob/main/Images/Tyre_view.jpg) | ![Scrapper](https://github.com/AmrishS2004/Constrobot-Wall-Plastering-Robot-/blob/main/Images/Scrapper_View.jpg) | ![Rotator](https://github.com/AmrishS2004/Constrobot-Wall-Plastering-Robot-/blob/main/Images/Rotator_view.jpg) |
 | *Plan view showing layout* | *Mobility system* | *Material application* | *Rotation mechanism* |
 
 </div>
@@ -644,7 +644,7 @@ Special thanks to the robotics and computer vision communities for open-source t
 For questions, collaboration opportunities, or technical support:
 - **Email**: amrish.s2004p@gmail.com
 - **GitHub Issues**: [Report bugs or request features](https://github.com/AmrishS2004/Constrobot-Wall-Plastering-Robot-/issues)
-- **LinkedIn**: Professional inquiries and networking
+- **LinkedIn**: [Amrish S](https://www.linkedin.com/in/amrish-s-2aa191220/)
 
 ---
 
