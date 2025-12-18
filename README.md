@@ -55,14 +55,21 @@ An autonomous robotic system that revolutionizes construction quality control by
 
 ---
 
-### 📐 Detailed Views
+### 📐 CAD Design Views
 
 <div align="center">
 
-| CAD Full Assembly | CAD Exploded View | Plastering Mechanism |
-|:-----------------:|:-----------------:|:--------------------:|
-| ![CAD Assembly](images/cad_designs/solidworks_full_assembly.png) | ![Exploded View](images/cad_designs/solidworks_exploded_view.png) | ![Plastering](images/cad_designs/plastering_mechanism.png) |
-| *Complete system design* | *Component breakdown* | *Material application system* |
+#### Primary Views
+| Front View | Side View | Back View |
+|:----------:|:---------:|:---------:|
+| ![Front](images/cad_designs/front_view.png) | ![Side](images/cad_designs/side_view.png) | ![Back](images/cad_designs/back_view.png) |
+| *Front elevation* | *Side profile* | *Rear view* |
+
+#### Component Details
+| Top View | Tyre Assembly | Scrapper Mechanism | Rotator System |
+|:--------:|:-------------:|:------------------:|:--------------:|
+| ![Top](images/cad_designs/top_view.png) | ![Tyre](images/cad_designs/tyre_view.png) | ![Scrapper](images/cad_designs/scrapper.png) | ![Rotator](images/cad_designs/rotator.png) |
+| *Plan view showing layout* | *Mobility system* | *Material application* | *Rotation mechanism* |
 
 </div>
 
